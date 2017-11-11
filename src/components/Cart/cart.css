@@ -1,0 +1,9 @@
+.store-number{
+	width: 20%;
+}	
+.show{
+	display: block;
+}
+.hide{
+	display: none;
+}
